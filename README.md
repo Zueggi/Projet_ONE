@@ -1,2 +1,2 @@
-Projket_ONE
+Projekt_ONE
 ==========
